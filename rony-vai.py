@@ -193,7 +193,7 @@ def menu():
                         elif xd in ['2','02']:
                                 randm()
                         elif xd in ['3','03']:
-                                os.system('xdg-open https://www.facebook.com/profile.php?id=100057497148585');menu()
+                                os.system('xdg-open https://www.facebook.com/invaild404');menu()
                         elif xd in ['0','05']:
                                 exit(f'\033[1;32m[\033[1;31m✓\033[1;32m] BYE BYE ')
                         else:
